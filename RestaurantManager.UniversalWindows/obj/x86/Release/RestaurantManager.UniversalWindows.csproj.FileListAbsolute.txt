@@ -1,0 +1,15 @@
+c:\users\sofia\documents\visual studio 2015\Projects\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Release\RestaurantManager.UniversalWindows.csprojResolveAssemblyReference.cache
+c:\users\sofia\documents\visual studio 2015\Projects\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Release\App.g.i.cs
+c:\users\sofia\documents\visual studio 2015\Projects\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Release\App.g.cs
+c:\users\sofia\documents\visual studio 2015\Projects\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Release\ExpeditePage.g.i.cs
+c:\users\sofia\documents\visual studio 2015\Projects\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Release\ExpeditePage.g.cs
+c:\users\sofia\documents\visual studio 2015\Projects\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Release\MainPage.g.i.cs
+c:\users\sofia\documents\visual studio 2015\Projects\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Release\MainPage.g.cs
+c:\users\sofia\documents\visual studio 2015\Projects\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Release\App.xaml
+c:\users\sofia\documents\visual studio 2015\Projects\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Release\ExpeditePage.xaml
+c:\users\sofia\documents\visual studio 2015\Projects\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Release\MainPage.xaml
+c:\users\sofia\documents\visual studio 2015\Projects\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Release\OrderPage.xaml
+c:\users\sofia\documents\visual studio 2015\Projects\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Release\App.xbf
+c:\users\sofia\documents\visual studio 2015\Projects\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Release\ExpeditePage.xbf
+c:\users\sofia\documents\visual studio 2015\Projects\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Release\MainPage.xbf
+c:\users\sofia\documents\visual studio 2015\Projects\RestaurantManager\RestaurantManager.UniversalWindows\obj\x86\Release\OrderPage.xbf
